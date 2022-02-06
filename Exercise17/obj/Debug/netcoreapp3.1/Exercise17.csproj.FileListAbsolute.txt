@@ -1,0 +1,13 @@
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/bin/Debug/netcoreapp3.1/Exercise17.deps.json
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/bin/Debug/netcoreapp3.1/Exercise17.runtimeconfig.json
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/bin/Debug/netcoreapp3.1/Exercise17.runtimeconfig.dev.json
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/bin/Debug/netcoreapp3.1/Exercise17.dll
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/bin/Debug/netcoreapp3.1/Exercise17.pdb
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.csproj.AssemblyReference.cache
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.AssemblyInfoInputs.cache
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.AssemblyInfo.cs
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.csproj.CoreCompileInputs.cache
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.dll
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.pdb
+/Users/lonni/GrandCircusBootCamps/Exercise17/Exercise17/obj/Debug/netcoreapp3.1/Exercise17.genruntimeconfig.cache
